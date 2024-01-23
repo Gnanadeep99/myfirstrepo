@@ -1,2 +1,3 @@
 #include<stdio.h>
-prinftf(hello world)
+printf(hello world)
+printf(github)
